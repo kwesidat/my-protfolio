@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to build yet 
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Samuel_koomson_CV.doc 
+    - styles/main.css 
+    - images/* 
