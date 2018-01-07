@@ -1,6 +1,6 @@
 # Samuel Koomson's portfolio
 
-This is my professionla portfolio. It uses AWS ans Reactjs.
+This is my professional portfolio. It uses AWS ans Reactjs.
 
 # Technology used
 
@@ -9,4 +9,4 @@ Brew
 SSH
 HTML
 Font Awesome
-Googel Fonts
+Google Fonts
