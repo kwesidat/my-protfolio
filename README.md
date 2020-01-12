@@ -10,4 +10,4 @@ SSH
 HTML
 Font Awesome
 Google Fonts
-AWS and jenkis
+AWS and jenkins
